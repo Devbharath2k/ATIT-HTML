@@ -937,6 +937,7 @@ vertical-align: middle;
     -ms-transform: translateX(0) rotateZ(-11deg) scale(.95);
     transition: transform .4s ease-out;
     box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+    height: 100%;
 }
 
 
